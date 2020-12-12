@@ -2,11 +2,11 @@
 var typed = new Typed("#typed", {
         strings: [
           "<a href='https://facebook.com/HussnainAhmad25' target='_blank'>Hussnain Ahmad</a>",
-          "<a href='https://github.com/PsychoCoder25/' target='_blank'>PsycoCoder25</a>",
+          "<a href='https://github.com/PsychoCoder25/' target='_blank'>PsyhcoCoder25</a>",
           "<a href='https://github.com/HussnainAhmad1606/' target='_blank'>Ha Rajpoot</a>"
         ],
-        typeSpeed: 100,
-        backSpeed: 100,
+        typeSpeed: 200,
+        backSpeed: 200,
         loop: true
       });
 
